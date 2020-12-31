@@ -8,9 +8,12 @@ GoogLeNet is a type of convolutional neural network based on the Inception archi
 <img width="352" alt="resim" src="https://user-images.githubusercontent.com/52162324/103408711-b632bc80-4b74-11eb-99b5-b80486dca661.png">
 #### Model Results
 ![train2](https://user-images.githubusercontent.com/52162324/103408757-f6923a80-4b74-11eb-86a0-1b9d577864b9.PNG)
+
 ![train1](https://user-images.githubusercontent.com/52162324/103408775-0578ed00-4b75-11eb-9938-0cbde44b945a.PNG)
+
 #### Training Images Scores
 ![table of scores](https://user-images.githubusercontent.com/52162324/103408861-525cc380-4b75-11eb-8066-bc33cd6a05c0.PNG)
+
 #### Creating The App
 After the model is trained and tested I created an app to be more practical. For creating app I used Matlab's App Designer enviroment.
 #### Running The App
@@ -23,4 +26,5 @@ Step2:
 ![image2](https://user-images.githubusercontent.com/52162324/103409349-715c5500-4b77-11eb-8616-ac689878bf58.PNG)
 
 Result:
+
 ![image3](https://user-images.githubusercontent.com/52162324/103409482-1b3be180-4b78-11eb-9b7e-85d3f40451a1.PNG)
