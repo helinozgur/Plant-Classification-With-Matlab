@@ -21,11 +21,11 @@ GoogLeNet is a type of convolutional neural network based on the Inception archi
 #### Creating The App
 After the model is trained and tested I created an app to be more practical. For creating app I used Matlab's App Designer enviroment.
 #### Running The App
-Step1:
+Step-1:
 
 ![image1](https://user-images.githubusercontent.com/52162324/103410148-280e0480-4b7b-11eb-9ece-f4b86c0010ed.PNG)
 
-Step2:
+Step-2:
 
 ![image2](https://user-images.githubusercontent.com/52162324/103409349-715c5500-4b77-11eb-8616-ac689878bf58.PNG)
 
