@@ -21,7 +21,7 @@ After the model is trained and tested I created an app to be more practical. For
 #### Running The App
 Step1:
 
-![image1](https://user-images.githubusercontent.com/52162324/103409323-57bb0d80-4b77-11eb-974b-7e832a6d03c8.PNG)
+![image1](https://user-images.githubusercontent.com/52162324/103410148-280e0480-4b7b-11eb-9ece-f4b86c0010ed.PNG)
 
 Step2:
 
@@ -29,4 +29,17 @@ Step2:
 
 Result:
 
-![image3](https://user-images.githubusercontent.com/52162324/103409482-1b3be180-4b78-11eb-9b7e-85d3f40451a1.PNG)
+![image3](https://user-images.githubusercontent.com/52162324/103410205-5ee41a80-4b7b-11eb-84d0-7f770c61cecc.PNG)
+
+
+#### References
+
+https://www.math.usm.edu/lambers/mat419/lecture10.pdf
+
+https://www.mathworks.com/videos/deep-learning-in-agriculture-matlab-for-plant-classification-1583158370815.html
+
+https://medium.com/coinmonks/paper-review-of-googlenet-inception-v1-winner-of-ilsvlc-2014-image-classification-c2b3565a64e7
+
+https://paperswithcode.com/method/googlenet
+
+https://www.geeksforgeeks.org/understanding-googlenet-model-cnn-architecture/
