@@ -3,7 +3,7 @@
 ### About Project
 The goal of this project is identify and classification of flower types.Image of flower chosen and upload from computer to app. Later then the image is passed through the model and the class is found.This project made with Matlab Deep Learning Toolbox. If you dont have it you can download and get more information form [this link](https://www.mathworks.com/products/deep-learning.html). To download pre-trained model [click this link](https://github.com/helinozgur/Plant-Identification-With-Matlab/releases/tag/%23model).
 #### About Model
-GoogLeNet is a type of convolutional neural network based on the Inception architecture. It utilises Inception modules, which allow the network to choose between multiple convolutional filter sizes in each block. An Inception network stacks these modules on top of each other, with occasional max-pooling layers with stride 2 to halve the resolution of the grid.To get more information about the GoogLeNet model[click this link](https://www.geeksforgeeks.org/understanding-googlenet-model-cnn-architecture/).
+GoogLeNet is a type of convolutional neural network based on the Inception architecture. It utilises Inception modules, which allow the network to choose between multiple convolutional filter sizes in each block. An Inception network stacks these modules on top of each other, with occasional max-pooling layers with stride 2 to halve the resolution of the grid. To get more information about the GoogLeNet model [click this link](https://www.geeksforgeeks.org/understanding-googlenet-model-cnn-architecture/).
 
 <img width="352" alt="resim" src="https://user-images.githubusercontent.com/52162324/103408711-b632bc80-4b74-11eb-99b5-b80486dca661.png">
 
